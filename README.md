@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Information Technology in Business systems
 - 💞️ I’m looking to collaborate on innovative tech projects that make a difference
 - 📫 How to reach me: katlego.rapanyane@icloud.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I have a passion for blending tech with creativity to create unique solutions!
 
 <!---
